@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PDC50-LARAVEL-ALLAPITAN'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A1BBA849041645709AB3CA39DBE85FE8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_685213D1291F4DF2A32A54F56702E795 }}
           package: .
